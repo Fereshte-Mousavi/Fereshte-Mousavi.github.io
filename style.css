@@ -158,8 +158,8 @@ body {
 .nav{
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  column-gap: 110px;
+  justify-content:space-evenly;
+  column-gap: 10px;
   margin-bottom: 50px;
 
 }
