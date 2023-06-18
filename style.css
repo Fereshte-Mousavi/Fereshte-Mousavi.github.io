@@ -69,24 +69,21 @@ body {
   background-image: url("mobile/image-graphic-design.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 50em;
+  height: 40em;
   text-align: center;
 }
 .title-cherry{
     margin-top: 10em;
     display: inline-block;
-    padding-top: 200px;
-    padding-bottom: 15px;
+    padding-top: 10em;
+    padding-bottom: 1em;
 
-}
-.cherry-exp{
-  padding-bottom: 100px;
 }
 .orange-image {
   background-image: url("mobile/image-photography.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 50em;
+  height: 40em;
   text-align: center;
 
 
@@ -94,8 +91,8 @@ body {
 .title-orange{
   margin-top: 10em;
     display: inline-block;
-    padding-top: 200px;
-    padding-bottom: 15px;
+    padding-top: 10em;
+    padding-bottom: 1em;
 }
 .people {
   width: 100%;
