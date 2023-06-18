@@ -159,7 +159,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  column-gap: 120px;
+  column-gap: 100px;
   margin-bottom: 50px;
 
 }
